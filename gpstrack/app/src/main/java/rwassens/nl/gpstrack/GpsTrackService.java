@@ -124,7 +124,7 @@ public class GpsTrackService extends Service implements LocationListener {
         // Get the xml/preferences.xml preferences
         SharedPreferences prefs = PreferenceManager
                         .getDefaultSharedPreferences(getBaseContext());
-        mServerUrl = prefs.getString("serverUrl", "http://hierbenik.wssns.nl");
+        mServerUrl = prefs.getString("serverUrl", "http://hereami.justanurl.nl");
     	Trace("service:mServerUrl " + mServerUrl);
     }
         
