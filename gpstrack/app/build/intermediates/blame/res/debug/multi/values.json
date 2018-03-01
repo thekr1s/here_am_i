@@ -1,0 +1,414 @@
+[
+    {
+        "outputFile": "C:\\Users\\robert.wassens\\StudioProjects\\GpsTrack\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 35,
+                    "endOffset": 86
+                },
+                "from": {
+                    "file": "C:\\Users\\robert.wassens\\StudioProjects\\GpsTrack\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 188,
+                        "endColumn": 35,
+                        "endOffset": 219
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 91,
+                    "endColumn": 36,
+                    "endOffset": 123
+                },
+                "from": {
+                    "file": "C:\\Users\\robert.wassens\\StudioProjects\\GpsTrack\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 36,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 128,
+                    "endColumn": 34,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "C:\\Users\\robert.wassens\\StudioProjects\\GpsTrack\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 116,
+                        "endColumn": 34,
+                        "endOffset": 146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 163,
+                    "endColumn": 52,
+                    "endOffset": 211
+                },
+                "from": {
+                    "file": "C:\\Users\\robert.wassens\\StudioProjects\\GpsTrack\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 293,
+                        "endColumn": 52,
+                        "endOffset": 341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 216,
+                    "endColumn": 45,
+                    "endOffset": 257
+                },
+                "from": {
+                    "file": "C:\\Users\\robert.wassens\\StudioProjects\\GpsTrack\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 45,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 262,
+                    "endColumn": 43,
+                    "endOffset": 301
+                },
+                "from": {
+                    "file": "C:\\Users\\robert.wassens\\StudioProjects\\GpsTrack\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 266,
+                        "endColumn": 43,
+                        "endOffset": 305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 306,
+                    "endColumn": 45,
+                    "endOffset": 347
+                },
+                "from": {
+                    "file": "C:\\Users\\robert.wassens\\StudioProjects\\GpsTrack\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 310,
+                        "endColumn": 45,
+                        "endOffset": 351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 352,
+                    "endColumn": 35,
+                    "endOffset": 383
+                },
+                "from": {
+                    "file": "C:\\Users\\robert.wassens\\StudioProjects\\GpsTrack\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 35,
+                        "endOffset": 132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 388,
+                    "endColumn": 78,
+                    "endOffset": 462
+                },
+                "from": {
+                    "file": "C:\\Users\\robert.wassens\\StudioProjects\\GpsTrack\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 394,
+                        "endColumn": 78,
+                        "endOffset": 468
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 467,
+                    "endColumn": 84,
+                    "endOffset": 547
+                },
+                "from": {
+                    "file": "C:\\Users\\robert.wassens\\StudioProjects\\GpsTrack\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 473,
+                        "endColumn": 84,
+                        "endOffset": 553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 552,
+                    "endColumn": 64,
+                    "endOffset": 612
+                },
+                "from": {
+                    "file": "C:\\Users\\robert.wassens\\StudioProjects\\GpsTrack\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 716,
+                        "endColumn": 64,
+                        "endOffset": 776
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 617,
+                    "endColumn": 78,
+                    "endOffset": 691
+                },
+                "from": {
+                    "file": "C:\\Users\\robert.wassens\\StudioProjects\\GpsTrack\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 558,
+                        "endColumn": 78,
+                        "endOffset": 632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 696,
+                    "endColumn": 78,
+                    "endOffset": 770
+                },
+                "from": {
+                    "file": "C:\\Users\\robert.wassens\\StudioProjects\\GpsTrack\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 637,
+                        "endColumn": 78,
+                        "endOffset": 711
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 775,
+                    "endColumn": 39,
+                    "endOffset": 810
+                },
+                "from": {
+                    "file": "C:\\Users\\robert.wassens\\StudioProjects\\GpsTrack\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 137,
+                        "endColumn": 39,
+                        "endOffset": 172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 815,
+                    "endColumn": 39,
+                    "endOffset": 850
+                },
+                "from": {
+                    "file": "C:\\Users\\robert.wassens\\StudioProjects\\GpsTrack\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 226,
+                        "endColumn": 39,
+                        "endOffset": 261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 855,
+                    "endColumn": 48,
+                    "endOffset": 899
+                },
+                "from": {
+                    "file": "C:\\Users\\robert.wassens\\StudioProjects\\GpsTrack\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endColumn": 48,
+                        "endOffset": 221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 904,
+                    "endColumn": 37,
+                    "endOffset": 937
+                },
+                "from": {
+                    "file": "C:\\Users\\robert.wassens\\StudioProjects\\GpsTrack\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 356,
+                        "endColumn": 37,
+                        "endOffset": 389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 942,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 1193
+                },
+                "from": {
+                    "file": "C:\\Users\\robert.wassens\\StudioProjects\\GpsTrack\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1198,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1517
+                },
+                "from": {
+                    "file": "C:\\Users\\robert.wassens\\StudioProjects\\GpsTrack\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 485,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 809
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1522,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 1596
+                },
+                "from": {
+                    "file": "C:\\Users\\robert.wassens\\StudioProjects\\GpsTrack\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1601,
+                    "endLine": 34,
+                    "endColumn": 12,
+                    "endOffset": 1709
+                },
+                "from": {
+                    "file": "C:\\Users\\robert.wassens\\StudioProjects\\GpsTrack\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 363,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 473
+                    }
+                }
+            }
+        ]
+    }
+]

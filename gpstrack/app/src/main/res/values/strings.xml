@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GpsTrack</string>
+    <string name="lap">Lap</string>
+    <string name="reset">Reset</string>
+    <string name="startstop">Start/Stop</string>
+    <string name="speed">Speed</string>
+    <string name="average">Average</string>
+    <string name="distance">Distance</string>
+    <string name="time">Time</string>
+    <string name="local_service_connected">GpsTrack service connected</string>
+    <string name="local_service_disconnected">GpsTrack service disconnected</string>
+    <string name="local_service_started">GpsTrack service has started</string>
+    <string name="local_service_stopped">GpsTrack service has stopped</string>
+    <string name="local_service_label">GpsTrack Service</string>
+ 
+</resources>

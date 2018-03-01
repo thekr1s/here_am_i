@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/widget0"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fadingEdge="horizontal|vertical"
+    tools:context=".Preferences" >
+
+    <EditText
+        android:id="@+id/output"
+        android:layout_width="fill_parent"
+        android:layout_height="200dip"
+        android:layout_x="0dip"
+        android:layout_y="0dip"
+        android:background="@color/gray"
+        android:clickable="false"
+        android:cursorVisible="false"
+        android:editable="false"
+        android:focusable="false"
+        android:gravity="top"
+        android:text=""
+        android:textColor="@color/green"
+        android:textSize="10sp" >
+    </EditText>
+
+    <EditText
+        android:id="@+id/dist"
+        android:layout_width="100dip"
+        android:layout_height="wrap_content"
+        android:layout_x="60dip"
+        android:layout_y="250dip"
+        android:clickable="false"
+        android:cursorVisible="false"
+        android:editable="false"
+        android:focusableInTouchMode="false"
+        android:gravity="center_horizontal"
+        android:text="dist"
+        android:textSize="18sp" >
+    </EditText>
+
+    <EditText
+        android:id="@+id/time"
+        android:layout_width="100dip"
+        android:layout_height="wrap_content"
+        android:layout_x="160dip"
+        android:layout_y="250dip"
+        android:clickable="false"
+        android:cursorVisible="false"
+        android:editable="false"
+        android:focusableInTouchMode="false"
+        android:gravity="center_horizontal"
+        android:text="time"
+        android:textSize="18sp" >
+    </EditText>
+
+    <EditText
+        android:id="@+id/speed"
+        android:layout_width="100dip"
+        android:layout_height="wrap_content"
+        android:layout_x="60dip"
+        android:layout_y="300dip"
+        android:clickable="false"
+        android:cursorVisible="false"
+        android:editable="false"
+        android:focusable="false"
+        android:gravity="center_horizontal"
+        android:text="curspeed"
+        android:textSize="18sp" >
+    </EditText>
+
+    <EditText
+        android:id="@+id/average"
+        android:layout_width="100dip"
+        android:layout_height="wrap_content"
+        android:layout_x="160dip"
+        android:layout_y="300dip"
+        android:clickable="false"
+        android:cursorVisible="false"
+        android:editable="false"
+        android:focusable="false"
+        android:gravity="center_horizontal"
+        android:text="avg"
+        android:textSize="18sp" >
+    </EditText>
+
+    <TextView
+        android:id="@+id/lblTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="160dip"
+        android:layout_y="230dip"
+        android:editable="true"
+        android:text="@string/time" >
+    </TextView>
+
+    <TextView
+        android:id="@+id/lblDistance"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="60dip"
+        android:layout_y="230dip"
+        android:text="@string/distance"></TextView>
+
+    <TextView
+        android:id="@+id/lblCurSpeed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="60dip"
+        android:layout_y="340dip"
+        android:text="@string/speed" >
+    </TextView>
+
+    <TextView
+        android:id="@+id/lblAverage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="160dip"
+        android:layout_y="340dip"
+        android:text="@string/average" >
+    </TextView>
+
+    <RelativeLayout
+        android:layout_width="224dp"
+        android:layout_height="wrap_content"
+        android:layout_x="48dp"
+        android:layout_y="408dp"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/startstop"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Start/Stop" />
+
+        <Button
+            android:id="@+id/exit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="false"
+            android:text="Exit" />
+    </RelativeLayout>
+
+</AbsoluteLayout>
