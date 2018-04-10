@@ -127,8 +127,8 @@ public class GpsTrackService extends Service implements LocationListener {
         mServerUrl = prefs.getString("serverUrl", "http://hereami.justanurl.nl");
 		if (mServerUrl.toLowerCase().indexOf("http://") != 0) {
 			Trace(mServerUrl + " does not start with http://. Prepending it");
+			mServerUrl = "http://" + mServerUrl;
 		}
-		mServerUrl = "http://" + mServerUrl;
     	Trace("service:mServerUrl " + mServerUrl);
     }
         
