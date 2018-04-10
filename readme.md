@@ -1,9 +1,9 @@
-#Description
+# Description
 Android app that gets it's location and sends it to a simple PHP based web server.
 
 Web server shows the last received location on google maps
 
-#Quick start
+# Quick start
 get the archive.
 
 open and build the android app in AndroidSudio. Last tested with AndroidStudio version 2.3.3

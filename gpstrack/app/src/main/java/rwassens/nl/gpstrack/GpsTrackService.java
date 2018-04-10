@@ -125,10 +125,13 @@ public class GpsTrackService extends Service implements LocationListener {
         SharedPreferences prefs = PreferenceManager
                         .getDefaultSharedPreferences(getBaseContext());
         mServerUrl = prefs.getString("serverUrl", "http://hereami.justanurl.nl");
+<<<<<<< HEAD
 		if (mServerUrl.toLowerCase().indexOf("http://") != 0) {
 			Trace(mServerUrl + " does not start with http://. Prepending it");
 		}
 		mServerUrl = "http://" + mServerUrl;
+=======
+>>>>>>> cc2567ec62e8d94470558f98368ed459fd6c37fe
     	Trace("service:mServerUrl " + mServerUrl);
     }
         
