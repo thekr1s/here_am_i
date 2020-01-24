@@ -30,7 +30,7 @@ $lon = $d[1];
 $time = time() - $d[2]/1000;
 fclose($fh);
 $dist= distance($home_lat, $home_lon, $lat, $lon, "K");
-echo "#lat: " . " age:" . $time . " dist:" . $dist;
+echo "lat: " . $lat . " lon:" . $lon . " age:" . $time . " dist:" . $dist;
 
 
 
